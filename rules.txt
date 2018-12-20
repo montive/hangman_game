@@ -1,0 +1,5 @@
+Hangman Game
+
+The game will choose a random word from the file words.txt
+The user will have to guess the number with less than 10 mistakes
+The program will show the word progress
